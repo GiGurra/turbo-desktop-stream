@@ -51,3 +51,5 @@ int main() {
 	return 0;
 
 }
+
+// Also see http://www.codeproject.com/Articles/5051/Various-methods-for-capturing-the-screen
